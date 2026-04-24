@@ -212,14 +212,6 @@ python train.py ... --lambda1 0.1 --lambda2 0.05 --run_name pi_ensemble
 
 All figures from the paper are generated automatically by `evaluate.py` and saved under `results/figures/`:
 
-| File | Paper Figure |
-|------|-------------|
-| `fig3a_parabola.png` | Fig. 3(a) — Piecewise parabolic envelope |
-| `fig4_scatter_residuals.png` | Fig. 4 — Scatter + residual density |
-| `fig5_timeseries.png` | Fig. 5 — Test-year time series + zoom |
-| `fig7_global_shap.png` | Fig. 7 — Global SHAP importance |
-| `fig8_regime_shap.png` | Fig. 8 — Regime comparison SHAP |
-
 ---
 
 ## Model Architecture
