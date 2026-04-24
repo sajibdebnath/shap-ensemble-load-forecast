@@ -1,11 +1,10 @@
-# Interpretable Physics-Informed Load Forecasting for U.S. Grid Resilience
+# Interpretable Physics-Informed Load Forecasting for U.S. Grid Resilience: SHAP-Guided Ensemble Validation in Hybrid Deep Learning Under Extreme Weather
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow 2.14](https://img.shields.io/badge/TensorFlow-2.14-orange.svg)](https://tensorflow.org/)
 [![SHAP 0.44](https://img.shields.io/badge/SHAP-0.44-green.svg)](https://shap.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**SHAP-Guided Ensemble Validation in Hybrid Deep Learning Under Extreme Weather**
 
 > Md Abubakkar¹, Sajib Debnath², Md. Uzzal Mia³  
 > ¹ Dept. of Computer Science, Midwestern State University, Dallas, TX  
@@ -312,7 +311,7 @@ If you use this code in your research, please cite:
 
 ## Acknowledgements
 
-The authors thank ERCOT and the NOAA/IEM ASOS network for providing publicly available datasets, and AES Clean Energy for operational grid-reliability context.
+The authors thank ERCOT and the NOAA/IEM ASOS network for providing publicly available datasets.
 
 ---
 
