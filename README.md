@@ -103,7 +103,7 @@ pi-load-forecast/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/pi-load-forecast.git
+git clone https://github.com/<your-username>/shap-ensemble-load-forecast.git
 cd pi-load-forecast
 
 # Create and activate a virtual environment
