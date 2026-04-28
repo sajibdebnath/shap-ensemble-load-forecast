@@ -5,6 +5,7 @@
 [![SHAP 0.44](https://img.shields.io/badge/SHAP-0.44-green.svg)](https://shap.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+Paper line (arXiv): https://arxiv.org/abs/2604.23500
 
 > Md Abubakkar¹, Sajib Debnath², Md. Uzzal Mia³  
 > ¹ Dept. of Computer Science, Midwestern State University, Dallas, TX  
